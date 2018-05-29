@@ -222,7 +222,6 @@ function episodeChart() {
     const numHouses = houses.length;
     const centersGap = (width - 150) / (numHouses + 1);
     houseCenters = houses.reduce((acc, house, i) => {
-      console.log(centersGap ,100 + centersGap*(i+1));
       acc[house] = {
         x: 100 + centersGap*(i+1),
         y: height / 2
