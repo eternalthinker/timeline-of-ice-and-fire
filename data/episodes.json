@@ -1,0 +1,672 @@
+[
+  {
+    "EID": "0101", 
+    "averageRating": "9.0", 
+    "duration": 62, 
+    "episodeNumber": "01", 
+    "numVotes": 25409, 
+    "seasonNumber": "01", 
+    "tconst": "tt1480055", 
+    "title": "Winter Is Coming"
+  }, 
+  {
+    "EID": "0102", 
+    "averageRating": "8.8", 
+    "duration": 56, 
+    "episodeNumber": "02", 
+    "numVotes": 19459, 
+    "seasonNumber": "01", 
+    "tconst": "tt1668746", 
+    "title": "The Kingsroad"
+  }, 
+  {
+    "EID": "0103", 
+    "averageRating": "8.7", 
+    "duration": 58, 
+    "episodeNumber": "03", 
+    "numVotes": 18345, 
+    "seasonNumber": "01", 
+    "tconst": "tt1829962", 
+    "title": "Lord Snow"
+  }, 
+  {
+    "EID": "0104", 
+    "averageRating": "8.8", 
+    "duration": 56, 
+    "episodeNumber": "04", 
+    "numVotes": 17597, 
+    "seasonNumber": "01", 
+    "tconst": "tt1829963", 
+    "title": "Cripples, Bastards, and Broken Things"
+  }, 
+  {
+    "EID": "0105", 
+    "averageRating": "9.1", 
+    "duration": 55, 
+    "episodeNumber": "05", 
+    "numVotes": 18569, 
+    "seasonNumber": "01", 
+    "tconst": "tt1829964", 
+    "title": "The Wolf and the Lion"
+  }, 
+  {
+    "EID": "0106", 
+    "averageRating": "9.2", 
+    "duration": 53, 
+    "episodeNumber": "06", 
+    "numVotes": 18384, 
+    "seasonNumber": "01", 
+    "tconst": "tt1837862", 
+    "title": "A Golden Crown"
+  }, 
+  {
+    "EID": "0107", 
+    "averageRating": "9.3", 
+    "duration": 58, 
+    "episodeNumber": "07", 
+    "numVotes": 18722, 
+    "seasonNumber": "01", 
+    "tconst": "tt1837863", 
+    "title": "You Win or You Die"
+  }, 
+  {
+    "EID": "0108", 
+    "averageRating": "9.1", 
+    "duration": 59, 
+    "episodeNumber": "08", 
+    "numVotes": 17151, 
+    "seasonNumber": "01", 
+    "tconst": "tt1837864", 
+    "title": "The Pointy End"
+  }, 
+  {
+    "EID": "0110", 
+    "averageRating": "9.5", 
+    "duration": 53, 
+    "episodeNumber": "10", 
+    "numVotes": 21544, 
+    "seasonNumber": "01", 
+    "tconst": "tt1851397", 
+    "title": "Fire and Blood"
+  }, 
+  {
+    "EID": "0109", 
+    "averageRating": "9.6", 
+    "duration": 57, 
+    "episodeNumber": "09", 
+    "numVotes": 24384, 
+    "seasonNumber": "01", 
+    "tconst": "tt1851398", 
+    "title": "Baelor"
+  }, 
+  {
+    "EID": "0201", 
+    "averageRating": "8.9", 
+    "duration": 53, 
+    "episodeNumber": "01", 
+    "numVotes": 17122, 
+    "seasonNumber": "02", 
+    "tconst": "tt1971833", 
+    "title": "The North Remembers"
+  }, 
+  {
+    "EID": "0202", 
+    "averageRating": "8.6", 
+    "duration": 54, 
+    "episodeNumber": "02", 
+    "numVotes": 16042, 
+    "seasonNumber": "02", 
+    "tconst": "tt2069318", 
+    "title": "The Night Lands"
+  }, 
+  {
+    "EID": "0204", 
+    "averageRating": "8.9", 
+    "duration": 51, 
+    "episodeNumber": "04", 
+    "numVotes": 15212, 
+    "seasonNumber": "02", 
+    "tconst": "tt2069319", 
+    "title": "Garden of Bones"
+  }, 
+  {
+    "EID": "0203", 
+    "averageRating": "8.9", 
+    "duration": 53, 
+    "episodeNumber": "03", 
+    "numVotes": 15876, 
+    "seasonNumber": "02", 
+    "tconst": "tt2070135", 
+    "title": "What Is Dead May Never Die"
+  }, 
+  {
+    "EID": "0205", 
+    "averageRating": "8.9", 
+    "duration": 55, 
+    "episodeNumber": "05", 
+    "numVotes": 15393, 
+    "seasonNumber": "02", 
+    "tconst": "tt2074658", 
+    "title": "The Ghost of Harrenhal"
+  }, 
+  {
+    "EID": "0209", 
+    "averageRating": "9.7", 
+    "duration": 55, 
+    "episodeNumber": "09", 
+    "numVotes": 28368, 
+    "seasonNumber": "02", 
+    "tconst": "tt2084342", 
+    "title": "Blackwater"
+  }, 
+  {
+    "EID": "0206", 
+    "averageRating": "9.1", 
+    "duration": 54, 
+    "episodeNumber": "06", 
+    "numVotes": 16337, 
+    "seasonNumber": "02", 
+    "tconst": "tt2085238", 
+    "title": "The Old Gods and the New"
+  }, 
+  {
+    "EID": "0207", 
+    "averageRating": "9.0", 
+    "duration": 56, 
+    "episodeNumber": "07", 
+    "numVotes": 15789, 
+    "seasonNumber": "02", 
+    "tconst": "tt2085239", 
+    "title": "A Man Without Honor"
+  }, 
+  {
+    "EID": "0208", 
+    "averageRating": "8.9", 
+    "duration": 54, 
+    "episodeNumber": "08", 
+    "numVotes": 15526, 
+    "seasonNumber": "02", 
+    "tconst": "tt2085240", 
+    "title": "The Prince of Winterfell"
+  }, 
+  {
+    "EID": "0210", 
+    "averageRating": "9.4", 
+    "duration": 64, 
+    "episodeNumber": "10", 
+    "numVotes": 19991, 
+    "seasonNumber": "02", 
+    "tconst": "tt2112510", 
+    "title": "Valar Morghulis"
+  }, 
+  {
+    "EID": "0302", 
+    "averageRating": "8.6", 
+    "duration": 56, 
+    "episodeNumber": "02", 
+    "numVotes": 15441, 
+    "seasonNumber": "03", 
+    "tconst": "tt2178772", 
+    "title": "Dark Wings, Dark Words"
+  }, 
+  {
+    "EID": "0301", 
+    "averageRating": "8.9", 
+    "duration": 55, 
+    "episodeNumber": "01", 
+    "numVotes": 17551, 
+    "seasonNumber": "03", 
+    "tconst": "tt2178782", 
+    "title": "Valar Dohaeris"
+  }, 
+  {
+    "EID": "0309", 
+    "averageRating": "9.9", 
+    "duration": 51, 
+    "episodeNumber": "09", 
+    "numVotes": 64922, 
+    "seasonNumber": "03", 
+    "tconst": "tt2178784", 
+    "title": "The Rains of Castamere"
+  }, 
+  {
+    "EID": "0305", 
+    "averageRating": "9.0", 
+    "duration": 57, 
+    "episodeNumber": "05", 
+    "numVotes": 15865, 
+    "seasonNumber": "03", 
+    "tconst": "tt2178788", 
+    "title": "Kissed by Fire"
+  }, 
+  {
+    "EID": "0310", 
+    "averageRating": "9.2", 
+    "duration": 63, 
+    "episodeNumber": "10", 
+    "numVotes": 18135, 
+    "seasonNumber": "03", 
+    "tconst": "tt2178796", 
+    "title": "Mhysa"
+  }, 
+  {
+    "EID": "0304", 
+    "averageRating": "9.6", 
+    "duration": 53, 
+    "episodeNumber": "04", 
+    "numVotes": 22139, 
+    "seasonNumber": "03", 
+    "tconst": "tt2178798", 
+    "title": "And Now His Watch Is Ended"
+  }, 
+  {
+    "EID": "0303", 
+    "averageRating": "8.9", 
+    "duration": 56, 
+    "episodeNumber": "03", 
+    "numVotes": 15790, 
+    "seasonNumber": "03", 
+    "tconst": "tt2178802", 
+    "title": "Walk of Punishment"
+  }, 
+  {
+    "EID": "0308", 
+    "averageRating": "9.0", 
+    "duration": 56, 
+    "episodeNumber": "08", 
+    "numVotes": 15713, 
+    "seasonNumber": "03", 
+    "tconst": "tt2178806", 
+    "title": "Second Sons"
+  }, 
+  {
+    "EID": "0306", 
+    "averageRating": "8.9", 
+    "duration": 53, 
+    "episodeNumber": "06", 
+    "numVotes": 15746, 
+    "seasonNumber": "03", 
+    "tconst": "tt2178812", 
+    "title": "The Climb"
+  }, 
+  {
+    "EID": "0307", 
+    "averageRating": "8.8", 
+    "duration": 58, 
+    "episodeNumber": "07", 
+    "numVotes": 15302, 
+    "seasonNumber": "03", 
+    "tconst": "tt2178814", 
+    "title": "The Bear and the Maiden Fair"
+  }, 
+  {
+    "EID": "0401", 
+    "averageRating": "9.1", 
+    "duration": 58, 
+    "episodeNumber": "01", 
+    "numVotes": 21979, 
+    "seasonNumber": "04", 
+    "tconst": "tt2816136", 
+    "title": "Two Swords"
+  }, 
+  {
+    "EID": "0402", 
+    "averageRating": "9.7", 
+    "duration": 52, 
+    "episodeNumber": "02", 
+    "numVotes": 35976, 
+    "seasonNumber": "04", 
+    "tconst": "tt2832378", 
+    "title": "The Lion and the Rose"
+  }, 
+  {
+    "EID": "0403", 
+    "averageRating": "8.9", 
+    "duration": 57, 
+    "episodeNumber": "03", 
+    "numVotes": 17797, 
+    "seasonNumber": "04", 
+    "tconst": "tt2972426", 
+    "title": "Breaker of Chains"
+  }, 
+  {
+    "EID": "0404", 
+    "averageRating": "8.9", 
+    "duration": 55, 
+    "episodeNumber": "04", 
+    "numVotes": 16925, 
+    "seasonNumber": "04", 
+    "tconst": "tt2972428", 
+    "title": "Oathkeeper"
+  }, 
+  {
+    "EID": "0408", 
+    "averageRating": "9.7", 
+    "duration": 52, 
+    "episodeNumber": "08", 
+    "numVotes": 34682, 
+    "seasonNumber": "04", 
+    "tconst": "tt3060782", 
+    "title": "The Mountain and the Viper"
+  }, 
+  {
+    "EID": "0405", 
+    "averageRating": "8.8", 
+    "duration": 53, 
+    "episodeNumber": "05", 
+    "numVotes": 16296, 
+    "seasonNumber": "04", 
+    "tconst": "tt3060856", 
+    "title": "First of His Name"
+  }, 
+  {
+    "EID": "0409", 
+    "averageRating": "9.6", 
+    "duration": 51, 
+    "episodeNumber": "09", 
+    "numVotes": 28217, 
+    "seasonNumber": "04", 
+    "tconst": "tt3060858", 
+    "title": "The Watchers on the Wall"
+  }, 
+  {
+    "EID": "0410", 
+    "averageRating": "9.7", 
+    "duration": 65, 
+    "episodeNumber": "10", 
+    "numVotes": 28158, 
+    "seasonNumber": "04", 
+    "tconst": "tt3060860", 
+    "title": "The Children"
+  }, 
+  {
+    "EID": "0407", 
+    "averageRating": "9.2", 
+    "duration": 51, 
+    "episodeNumber": "07", 
+    "numVotes": 18331, 
+    "seasonNumber": "04", 
+    "tconst": "tt3060876", 
+    "title": "Mockingbird"
+  }, 
+  {
+    "EID": "0406", 
+    "averageRating": "9.7", 
+    "duration": 51, 
+    "episodeNumber": "06", 
+    "numVotes": 31150, 
+    "seasonNumber": "04", 
+    "tconst": "tt3060910", 
+    "title": "The Laws of Gods and Men"
+  }, 
+  {
+    "EID": "0501", 
+    "averageRating": "8.6", 
+    "duration": 53, 
+    "episodeNumber": "01", 
+    "numVotes": 18994, 
+    "seasonNumber": "05", 
+    "tconst": "tt3658012", 
+    "title": "The Wars to Come"
+  }, 
+  {
+    "EID": "0601", 
+    "averageRating": "8.6", 
+    "duration": 50, 
+    "episodeNumber": "01", 
+    "numVotes": 27736, 
+    "seasonNumber": "06", 
+    "tconst": "tt3658014", 
+    "title": "The Red Woman"
+  }, 
+  {
+    "EID": "0502", 
+    "averageRating": "8.6", 
+    "duration": 56, 
+    "episodeNumber": "02", 
+    "numVotes": 15955, 
+    "seasonNumber": "05", 
+    "tconst": "tt3846626", 
+    "title": "The House of Black and White"
+  }, 
+  {
+    "EID": "0509", 
+    "averageRating": "9.5", 
+    "duration": 52, 
+    "episodeNumber": "09", 
+    "numVotes": 29114, 
+    "seasonNumber": "05", 
+    "tconst": "tt3866826", 
+    "title": "The Dance of Dragons"
+  }, 
+  {
+    "EID": "0503", 
+    "averageRating": "8.6", 
+    "duration": 60, 
+    "episodeNumber": "03", 
+    "numVotes": 15286, 
+    "seasonNumber": "05", 
+    "tconst": "tt3866836", 
+    "title": "High Sparrow"
+  }, 
+  {
+    "EID": "0504", 
+    "averageRating": "8.8", 
+    "duration": 51, 
+    "episodeNumber": "04", 
+    "numVotes": 15895, 
+    "seasonNumber": "05", 
+    "tconst": "tt3866838", 
+    "title": "Sons of the Harpy"
+  }, 
+  {
+    "EID": "0505", 
+    "averageRating": "8.7", 
+    "duration": 57, 
+    "episodeNumber": "05", 
+    "numVotes": 16128, 
+    "seasonNumber": "05", 
+    "tconst": "tt3866840", 
+    "title": "Kill the Boy"
+  }, 
+  {
+    "EID": "0506", 
+    "averageRating": "8.1", 
+    "duration": 54, 
+    "episodeNumber": "06", 
+    "numVotes": 18407, 
+    "seasonNumber": "05", 
+    "tconst": "tt3866842", 
+    "title": "Unbowed, Unbent, Unbroken"
+  }, 
+  {
+    "EID": "0507", 
+    "averageRating": "9.1", 
+    "duration": 59, 
+    "episodeNumber": "07", 
+    "numVotes": 18200, 
+    "seasonNumber": "05", 
+    "tconst": "tt3866846", 
+    "title": "The Gift"
+  }, 
+  {
+    "EID": "0508", 
+    "averageRating": "9.9", 
+    "duration": 61, 
+    "episodeNumber": "08", 
+    "numVotes": 68414, 
+    "seasonNumber": "05", 
+    "tconst": "tt3866850", 
+    "title": "Hardhome"
+  }, 
+  {
+    "EID": "0510", 
+    "averageRating": "9.0", 
+    "duration": 60, 
+    "episodeNumber": "10", 
+    "numVotes": 28279, 
+    "seasonNumber": "05", 
+    "tconst": "tt3866862", 
+    "title": "Mother's Mercy"
+  }, 
+  {
+    "EID": "0602", 
+    "averageRating": "9.5", 
+    "duration": 54, 
+    "episodeNumber": "02", 
+    "numVotes": 33708, 
+    "seasonNumber": "06", 
+    "tconst": "tt4077554", 
+    "title": "Home"
+  }, 
+  {
+    "EID": "0603", 
+    "averageRating": "8.8", 
+    "duration": 52, 
+    "episodeNumber": "03", 
+    "numVotes": 22023, 
+    "seasonNumber": "06", 
+    "tconst": "tt4131606", 
+    "title": "Oathbreaker"
+  }, 
+  {
+    "EID": "0604", 
+    "averageRating": "9.2", 
+    "duration": 59, 
+    "episodeNumber": "04", 
+    "numVotes": 24148, 
+    "seasonNumber": "06", 
+    "tconst": "tt4283016", 
+    "title": "Book of the Stranger"
+  }, 
+  {
+    "EID": "0605", 
+    "averageRating": "9.7", 
+    "duration": 57, 
+    "episodeNumber": "05", 
+    "numVotes": 49570, 
+    "seasonNumber": "06", 
+    "tconst": "tt4283028", 
+    "title": "The Door"
+  }, 
+  {
+    "EID": "0606", 
+    "averageRating": "8.5", 
+    "duration": 52, 
+    "episodeNumber": "06", 
+    "numVotes": 21832, 
+    "seasonNumber": "06", 
+    "tconst": "tt4283054", 
+    "title": "Blood of My Blood"
+  }, 
+  {
+    "EID": "0607", 
+    "averageRating": "8.6", 
+    "duration": 51, 
+    "episodeNumber": "07", 
+    "numVotes": 21126, 
+    "seasonNumber": "06", 
+    "tconst": "tt4283060", 
+    "title": "The Broken Man"
+  }, 
+  {
+    "EID": "0608", 
+    "averageRating": "8.4", 
+    "duration": 59, 
+    "episodeNumber": "08", 
+    "numVotes": 24593, 
+    "seasonNumber": "06", 
+    "tconst": "tt4283074", 
+    "title": "No One"
+  }, 
+  {
+    "EID": "0609", 
+    "averageRating": "9.9", 
+    "duration": 60, 
+    "episodeNumber": "09", 
+    "numVotes": 154029, 
+    "seasonNumber": "06", 
+    "tconst": "tt4283088", 
+    "title": "Battle of the Bastards"
+  }, 
+  {
+    "EID": "0610", 
+    "averageRating": "9.9", 
+    "duration": 68, 
+    "episodeNumber": "10", 
+    "numVotes": 105899, 
+    "seasonNumber": "06", 
+    "tconst": "tt4283094", 
+    "title": "The Winds of Winter"
+  }, 
+  {
+    "EID": "0701", 
+    "averageRating": "8.7", 
+    "duration": 59, 
+    "episodeNumber": "01", 
+    "numVotes": 34941, 
+    "seasonNumber": "07", 
+    "tconst": "tt5654088", 
+    "title": "Dragonstone"
+  }, 
+  {
+    "EID": "0702", 
+    "averageRating": "9.0", 
+    "duration": 59, 
+    "episodeNumber": "02", 
+    "numVotes": 28952, 
+    "seasonNumber": "07", 
+    "tconst": "tt5655178", 
+    "title": "Stormborn"
+  }, 
+  {
+    "EID": "0703", 
+    "averageRating": "9.3", 
+    "duration": 63, 
+    "episodeNumber": "03", 
+    "numVotes": 30050, 
+    "seasonNumber": "07", 
+    "tconst": "tt5775840", 
+    "title": "The Queen's Justice"
+  }, 
+  {
+    "EID": "0704", 
+    "averageRating": "9.8", 
+    "duration": 50, 
+    "episodeNumber": "04", 
+    "numVotes": 61485, 
+    "seasonNumber": "07", 
+    "tconst": "tt5775846", 
+    "title": "The Spoils of War"
+  }, 
+  {
+    "EID": "0705", 
+    "averageRating": "9.0", 
+    "duration": 59, 
+    "episodeNumber": "05", 
+    "numVotes": 28109, 
+    "seasonNumber": "07", 
+    "tconst": "tt5775854", 
+    "title": "Eastwatch"
+  }, 
+  {
+    "EID": "0706", 
+    "averageRating": "9.2", 
+    "duration": 70, 
+    "episodeNumber": "06", 
+    "numVotes": 41939, 
+    "seasonNumber": "07", 
+    "tconst": "tt5775864", 
+    "title": "Beyond the Wall"
+  }, 
+  {
+    "EID": "0707", 
+    "averageRating": "9.6", 
+    "duration": 80, 
+    "episodeNumber": "07", 
+    "numVotes": 39698, 
+    "seasonNumber": "07", 
+    "tconst": "tt5775874", 
+    "title": "The Dragon and the Wolf"
+  }
+]

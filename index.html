@@ -1,0 +1,103 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>The Timeline of Ice and Fire</title>
+  <meta name="description" content="Game of Thrones visualization">
+  <meta name="author" content="Rahul Anand">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="css/reset.css">
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/got.css">
+</head>
+<body>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-9">
+        <h2>The Timeline of Ice and Fire</h2>
+        <h5>
+          <small class="text-muted">
+          A narrative of character changes across episodes in Game of Thrones TV series
+          </small>
+        </h5>
+      </div>
+      <div class="col-md-3">
+        <p class="force-buttons">
+          <button type="button" id="split-bubbles" class="btn btn-primary btn-sm">Split by House</button>
+          <button type="button" id="group-bubbles" class="btn btn-primary btn-sm">Group together</button>
+        </p>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-md-9">
+        <div id="vis"></div>
+      </div>
+      <div class="col-md-3">
+        <!-- Episode info -->
+        <div class="episode">
+          <h3 class="episode-title">loading...</h3>
+          <h4 class="episode-order">loading...</h4>
+          <p><b>Duration:</b> <span class="episode-duration">0 minutes</span><br/>
+          <b>IMDb Rating:</b>
+            <span class="badge badge-success episode-rating">0.0</span> from
+            <span class="episode-votes">0</span> votes
+          </p>
+        </div>
+        <!-- Character info -->
+        <div class="card character" style="width: 18rem;">
+          <img class="card-img-top character-image" src="" alt="">
+          <div class="card-body">
+            <h5 class="card-title character-name">loading..</h5>
+            <h6 class="card-subtitle mb-2 text-muted character-house">loading..</h6>
+            <p class="character-death"></p>
+            <p class="card-text character-quote">loading..</p>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+
+    <nav class="form-steps" id="episode-timeline">
+      <!-- <div class="form-steps__item form-steps__item--active">
+        <div class="form-steps__item-content">
+          <span class="form-steps__item-icon">1</span>
+          <span class="form-steps__item-text">S1</span>
+        </div>
+      </div>
+      <div class="form-steps__item form-steps__item--active">
+        <div class="form-steps__item-content">
+          <span class="form-steps__item-icon">2</span>
+          <span class="form-steps__item-line"></span>
+          <span class="form-steps__item-text">.</span>
+        </div>
+      </div> -->
+    </nav>
+
+    <div id="toolbar">
+      <!--
+      <a href="#" id="all" class="button active">All Characters</a>
+      <a href="#" id="year" class="button">Characters By House</a> -->
+      <!-- <a href="#" id="s01e01" class="button active">S01E01</a>
+      <a href="#" id="s01e02" class="button">S01E02</a> -->
+    </div>
+
+    <div class="footer">
+    </div>
+  </div>
+
+  <!--script src="//d3js.org/d3.v4.min.js"></script-->
+  <script type="text/javascript" src="lib/d3.js"></script>
+  <script type="text/javascript" src="lib/jquery-3.3.1.min.js"></script>
+  <!-- Latest compiled and minified JavaScript -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  <script src="src/tooltip.js"></script>
+  <script src="src/got.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,222 @@
+a, a:visited, a:active {
+  color: #444;
+}
+
+body {
+  /*background: #eeeeee;*/
+}
+
+.container {
+  /*max-width: 900px;*/
+  margin: auto;
+  width: 100%;
+  padding: 0 5%;
+  box-sizing: border-box;
+}
+
+.button {
+  min-width: 130px;
+  padding: 4px 5px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 13px;
+  border: 1px solid #e0e0e0;
+  text-decoration: none;
+}
+
+.button.active {
+  background: #000;
+  color: #fff;
+}
+
+.force-buttons {
+  margin-top: 15px;
+}
+
+#vis {
+  width: 1100px;
+  height: 550px;
+  clear: both;
+  margin-bottom: 10px;
+}
+
+#toolbar {
+  margin-top: 10px;
+}
+
+.year {
+  font-size: 21px;
+  fill: #aaa;
+  cursor: default;
+}
+
+.char-tooltip {
+	position: absolute;
+	top: 100px;
+	left: 100px;
+  -moz-border-radius:5px;
+	border-radius: 5px;
+  border: 2px solid #000;
+  background: #fff;
+	opacity: .9;
+  color: black;
+	padding: 10px;
+	width: 300px;
+	font-size: 12px;
+	z-index: 10;
+}
+
+.char-tooltip .title {
+	font-size: 13px;
+}
+
+.char-tooltip .name {
+  font-weight:bold;
+}
+
+.footer {
+  text-align: center;
+}
+
+/* ------------ Episode info ----------------- */
+.episode-order {
+  color: #aaa;
+}
+
+.character {
+  display: none;
+  max-height: 380px;
+  overflow: hidden;
+}
+
+.card-img-top.character-image {
+  object-fit: none; /* Do not scale the image */
+  object-position: left; /* Left align the image within the element */
+  width: 100%;
+  max-height: 200px;
+}
+
+.card {
+  border: 0px;
+}
+
+.card-body {
+  padding-left: 0px;
+}
+
+.character-quote {
+  font-style: italic;
+  font-family: serif;
+  font-size: 11px;
+  color: #666;
+}
+
+.character-quote p {
+  margin: 0 0 3px;
+}
+
+.character-death {
+  display: none;
+  color: #be3030;
+  font-size: 12px;
+  font-weight: bold;
+  margin-bottom: 3px;
+}
+
+
+/* --------------- Episode timeline ------------------*/
+/* Referred from: https://codepen.io/anon/pen/zjgvNE */
+
+.form-steps {
+  display: block;
+  width: 100%;
+  position: relative;
+  margin: 0px 0 10px;
+}
+.form-steps:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.form-steps__item {
+  padding: 0;
+  position: relative;
+  display: block;
+  float: left;
+  width: 1.45%;
+  text-align: center;
+}
+.form-steps__item-content {
+  display: inline-block;
+}
+.form-steps__item-icon {
+  background: #666;
+  color: #eceff1;
+  display: block;
+  border-radius: 100%;
+  text-align: center;
+  width: 16px;
+  height: 16px;
+  line-height: 16px;
+  margin: 0 auto 10px auto;
+  position: relative;
+  font-size: 9px;
+  font-weight: 400;
+  z-index: 2;
+  transition: 0.7s;
+}
+
+.form-steps__item-icon:hover {
+  transform: scale(1.5);
+  z-index: 9999;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.form-steps__item-text {
+  font-size: 8px;
+  color: #fff;
+  font-weight: 500;
+  line-height: 8px;
+}
+
+.form-steps__item-text.first-episode {
+  color: #fff;
+  padding: 5px;
+  background: #a2738c;
+  border-radius: 100%;
+  display: block;
+  box-sizing: border-box;
+  font-weight: bold;
+  font-size: 10px;
+}
+
+.first-episode-step {
+}
+
+.form-steps__item-line {
+  display: inline-block;
+  height: 3px;
+  width: 100%;
+  background: #aaa;
+  float: left;
+  position: absolute;
+  left: -50%;
+  top: 6px;
+  z-index: 1;
+}
+.form-steps__item--active .form-steps__item-icon {
+  background: #005585;
+  color: #ffffff;
+}
+.form-steps__item--active .form-steps__item-text {
+  color: #fff;
+}
+.form-steps__item--active .form-steps__item-text.first-episode {
+  color: #fff;
+}
+.form-steps__item--active .form-steps__item-line {
+  background: #005585;
+}
+
+/* --------------- END OF Episode timeline ------------------*/
