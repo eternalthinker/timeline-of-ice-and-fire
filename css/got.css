@@ -61,7 +61,7 @@ body {
 	opacity: .9;
   color: black;
 	padding: 10px;
-	width: 300px;
+	width: 230px;
 	font-size: 12px;
 	z-index: 10;
 }
@@ -78,6 +78,12 @@ body {
   text-align: center;
 }
 
+.info-sidebar {
+  margin-top: 15px;
+  max-height: 80vh;
+  overflow: hidden;
+}
+
 /* ------------ Episode info ----------------- */
 .episode-order {
   color: #aaa;
@@ -85,8 +91,6 @@ body {
 
 .character {
   display: none;
-  max-height: 380px;
-  overflow: hidden;
 }
 
 .card-img-top.character-image {
@@ -104,9 +108,13 @@ body {
   padding-left: 0px;
 }
 
+.card-title.character-name {
+  margin-bottom: 5px;
+}
+
 .character-quote {
   font-style: italic;
-  font-family: serif;
+  /*font-family: serif;*/
   font-size: 11px;
   color: #666;
 }
@@ -121,6 +129,10 @@ body {
   font-size: 12px;
   font-weight: bold;
   margin-bottom: 3px;
+}
+
+.character-extra-info {
+  margin: 3px 0;
 }
 
 

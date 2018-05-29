@@ -69,7 +69,7 @@ function episodeChart() {
   const width = 1100;
   const height = 550;
 
-  const tooltip = floatingTooltip('character_tooltip', 240);
+  const tooltip = floatingTooltip('character_tooltip', 180);
   const center = {
     x: width / 2,
     y: height /2
@@ -220,8 +220,9 @@ function episodeChart() {
     }, {});
     const houses = Object.keys(housesMap);
     const numHouses = houses.length;
-    const centersGap = (width - 100) / (numHouses + 1);
+    const centersGap = (width - 150) / (numHouses + 1);
     houseCenters = houses.reduce((acc, house, i) => {
+      console.log(centersGap ,100 + centersGap*(i+1));
       acc[house] = {
         x: 100 + centersGap*(i+1),
         y: height / 2
@@ -347,14 +348,17 @@ function episodeChart() {
 
   function showCharacter(d) {
     $('.character-name').text(d.name);
-    $('.character-house').text(d.house || '');
+    $('.character-house').text(d.house === 'Other' ? '' : `House ${d.house}` || '');
+    $('.character-episodeCount').text(`in ${d.episodeCount} episode${d.episodeCount > 1 ? 's' : ''}`);
     $('.character-image').attr('src', d.image || '');
     $('.character-quote').html(d.quotes ? d.quotes[Math.floor(Math.random() * d.quotes.length)] : '');
     if (d.isAlive) {
       $('.character-death').hide();
+      $('.character-is-dead').hide();
     } else {
       $('.character-death').text(d.means_of_death);
       $('.character-death').show();
+      $('.character-is-dead').show();
     }
     $('.character').show();
   }
